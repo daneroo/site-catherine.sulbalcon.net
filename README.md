@@ -2,6 +2,7 @@
 On 2018-07-05 I migrated all the data on axial servers
 which hosted multiple sites. 
 
+Publied at http://daniel-lauzon.com/site-catherine.sulbalcon.net/
 
 Using CNAME record on imetrical.com:
 ```
