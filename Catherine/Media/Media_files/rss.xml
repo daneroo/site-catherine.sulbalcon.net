@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>Photo</title>
+    <link>http://catherine.sulbalcon.net/Catherine/Media/Media.html</link>
+    <description>Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor placerat fermentum, enim integer ad vestibulum volutpat. Ultricies sit, magna tincidunt. Maecenas aliquam.</description>
+    <item>
+      <title>Photo</title>
+      <link>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo.html</link>
+      <guid isPermaLink="false">5271080c-c693-4bb4-8a5c-9b13e89a7f4e</guid>
+    </item>
+  </channel>
+</rss>

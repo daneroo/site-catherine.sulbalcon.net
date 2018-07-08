@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:iphoto="urn:iphoto:property" xmlns:iweb="http://www.apple.com/iweb" version="2.0">
+  <channel>
+    <title>PHoto
+</title>
+    <link>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo.html</link>
+    <description>Lorem ipsum dolor sit amet, ligula suspendisse nulla pretium, rhoncus tempor placerat fermentum, enim integer ad vestibulum volutpat. Nisl rhoncus turpis est, vel elit, congue wisi enim nunc ultricies sit, magna tincidunt. Maecenas aliquam maecenas ligula nostra, accumsan taciti.</description>
+    <item>
+      <title>photo</title>
+      <link>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo.html#0</link>
+      <guid isPermaLink="false">8fb08a75-965e-4757-ad76-967c49dac1e3</guid>
+      <enclosure url="http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo/photo.jpg" length="46676" type="image/jpeg"/>
+      <iphoto:thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_218_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;photo&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>photo</title>
+      <link>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo.html#1</link>
+      <guid isPermaLink="false">ef2242f7-e52c-4792-bc55-0e20eb8c1e30</guid>
+      <enclosure url="http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_1/photo_1.jpg" length="60044" type="image/jpeg"/>
+      <iphoto:thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_1/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_1/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_1/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_218_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;photo&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>photo</title>
+      <link>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo.html#2</link>
+      <guid isPermaLink="false">55d9edee-18b5-4b24-b92b-a497de6debcc</guid>
+      <enclosure url="http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_2/photo_2.jpg" length="89030" type="image/jpeg"/>
+      <iphoto:thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_2/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_2/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_2/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_218_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;photo&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>photo</title>
+      <link>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo.html#3</link>
+      <guid isPermaLink="false">1a2ca0c4-3298-4348-8830-e9a216ae7af7</guid>
+      <enclosure url="http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_3/photo_3.jpg" length="70237" type="image/jpeg"/>
+      <iphoto:thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_3/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_3/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_3/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_218_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;photo&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>photo</title>
+      <link>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo.html#4</link>
+      <guid isPermaLink="false">44af22a7-e7b2-4cc7-b60a-f1af56a3f041</guid>
+      <enclosure url="http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_4/photo_4.jpg" length="69800" type="image/jpeg"/>
+      <iphoto:thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_4/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_4/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_4/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_218_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;photo&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>photo</title>
+      <link>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo.html#5</link>
+      <guid isPermaLink="false">dea7e0a5-b98f-44b7-866e-c5c9c78ebd49</guid>
+      <enclosure url="http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_5/photo_5.jpg" length="73572" type="image/jpeg"/>
+      <iphoto:thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_5/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_5/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_5/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_218_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;photo&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+    <item>
+      <title>photo</title>
+      <link>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo.html#6</link>
+      <guid isPermaLink="false">89912dbd-5857-4bc9-baeb-a3fc589a7460</guid>
+      <enclosure url="http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_6/photo_6.jpg" length="99061" type="image/jpeg"/>
+      <iphoto:thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_6/thumb.jpg</iphoto:thumbnail>
+      <iweb:micro>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_6/micro.jpg</iweb:micro>
+      <iweb:mip-thumbnail>http://catherine.sulbalcon.net/Catherine/Media/Pages/Photo_files/Media/photo_6/mip.jpg</iweb:mip-thumbnail>
+      <iweb:richTitle>&lt;div style=&quot;padding: 0px; &quot; class=&quot;image_cluster_layout_style_default_External_218_37&quot;&gt;&lt;div class=&quot;image_cluster_layout_style_default&quot;&gt;&lt;p style=&quot;padding-bottom: 0pt; padding-top: 0pt; &quot; class=&quot;Caption&quot;&gt;photo&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;</iweb:richTitle>
+    </item>
+  </channel>
+</rss>
