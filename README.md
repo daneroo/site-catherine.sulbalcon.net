@@ -4,7 +4,7 @@ which hosted multiple sites.
 
 Published at http://daniel-lauzon.com/site-catherine.sulbalcon.net/
 
-Using CNAME record on imetrical.com:
+Using CNAME record on cobradumandingue.com:
 ```
-CNAME catherine daneroo.github.io
+CNAME m daneroo.github.io
 ```
